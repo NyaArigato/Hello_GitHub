@@ -22,3 +22,5 @@ e por fim
 
 * Pull
 - Git push origin (main ou a branch que estiver/quiser)
+
+* link video aula: https://www.youtube.com/watch?v=5BYm7UdCrX0
